@@ -16,8 +16,6 @@ public class ClassRanking {
 			classRanking(students, number - 1);
 		}
 		printResult(students);//印出來
-
-		
 	}
 
 	private static void printResult(int[][] students) {
