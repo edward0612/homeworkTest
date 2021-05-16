@@ -8,6 +8,8 @@ public class ClassRanking {
 		int students[][] = new int[n][2];// 每個學生有學號和成績
 		int number;
 		int grade;
+		int hp;
+
 		for (int i = 0; i < n; i++) {
 			number = sc.nextInt(); //輸入學號
 			grade = sc.nextInt();	//輸入成績
