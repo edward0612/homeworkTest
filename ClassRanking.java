@@ -9,6 +9,7 @@ public class ClassRanking {
 		int number;
 		int grade;
 		int head;
+		int hp;
 		for (int i = 0; i < n; i++) {
 			number = sc.nextInt(); //輸入學號
 			grade = sc.nextInt();	//輸入成績
